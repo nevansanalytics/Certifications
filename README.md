@@ -27,3 +27,7 @@ I am a dedicated and detail-oriented professional with a diverse background in v
 - **Issuing Organization**: Amazon Web Services (AWS)
 - **Description**: Entry-level certification demonstrating proficiency in cloud computing principles and AWS services.
 - [View Certificate](https://github.com/nevansanalytics/Certifications/blob/main/Certifications/AWS%20Certified%20Cloud%20Practitioner_Nathan_Evans.pdf)
+
+## Portfolio
+
+- **Portfolio PDF**: [View Portfolio](https://github.com/nevansanalytics/Certifications/blob/main/Portfolio/Nathan_Evans_Portfolio_PDF.pdf)
