@@ -11,15 +11,19 @@ I am a dedicated and detail-oriented professional with a diverse background in v
 ### CareerFoundry Intro to Data Analytics
 - **Issuing Organization**: CareerFoundry
 - **Description**: Introduction to Data Analytics course providing fundamental knowledge and skills in data analysis.
+- [View Certificate](https://github.com/nevansanalytics/Certifications/blob/main/Certifications/CareerFoundry%20Intro%20to%20Data%20Analytics_Nathan_Evans.pdf)
 
 ### CareerFoundry Data Immersion
 - **Issuing Organization**: CareerFoundry
 - **Description**: Comprehensive data immersion program covering advanced data analysis techniques and tools.
+- [View Certificate](https://github.com/nevansanalytics/Certifications/blob/main/Certifications/CareerFoundry%20Data%20Immersion_Nathan_Evans.pdf)
 
 ### CareerFoundry Data Analytics Program
 - **Issuing Organization**: CareerFoundry
 - **Description**: Complete data analytics program encompassing both the Intro to Data Analytics and Data Immersion courses.
+- [View Certificate](https://github.com/nevansanalytics/Certifications/blob/main/Certifications/CareerFoundry%20Data%20Analytics%20Program_Nathan_Evans.pdf)
 
 ### AWS Certified Cloud Practitioner
 - **Issuing Organization**: Amazon Web Services (AWS)
 - **Description**: Entry-level certification demonstrating proficiency in cloud computing principles and AWS services.
+- [View Certificate](https://github.com/nevansanalytics/Certifications/blob/main/Certifications/AWS%20Certified%20Cloud%20Practitioner_Nathan_Evans.pdf)
