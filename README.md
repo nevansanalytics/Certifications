@@ -16,6 +16,10 @@ I am a dedicated and detail-oriented professional with a diverse background in v
 - **Issuing Organization**: CareerFoundry
 - **Description**: Comprehensive data immersion program covering advanced data analysis techniques and tools.
 
+### CareerFoundry Data Analytics Program
+- **Issuing Organization**: CareerFoundry
+- **Description**: Complete data analytics program encompassing both the Intro to Data Analytics and Data Immersion courses.
+
 ### AWS Certified Cloud Practitioner
 - **Issuing Organization**: Amazon Web Services (AWS)
 - **Description**: Entry-level certification demonstrating proficiency in cloud computing principles and AWS services.
