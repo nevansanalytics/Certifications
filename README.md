@@ -31,3 +31,7 @@ I am a dedicated and detail-oriented professional with a diverse background in v
 ## Portfolio
 
 - **Portfolio PDF**: [View Portfolio](https://github.com/nevansanalytics/Certifications/blob/main/Portfolio/Nathan_Evans_Portfolio_PDF.pdf)
+
+## Resume
+
+- **Resume PDF**: [View Resume](https://github.com/nevansanalytics/Certifications/blob/main/Resume/Nathan_Evans_Resume_2024_PDF.pdf)
